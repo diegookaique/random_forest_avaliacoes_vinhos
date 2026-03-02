@@ -96,3 +96,9 @@ Para construir um modelo mais robusto e capaz de prever todas as classes de qual
     *   **Ensembles Avançados:** Técnicas como EasyEnsemble ou BalanceCascade que combinam múltiplos classificadores treinados em subconjuntos balanceados dos dados.
 
 Em resumo, a otimização de hiperparâmetros por si só não foi suficiente para resolver o problema fundamental do desbalanceamento de classes. A próxima etapa crucial seria implementar estratégias para tratar esse desbalanceamento, juntamente com uma avaliação mais aprofundada usando métricas apropriadas, para que o modelo possa prever com eficácia as qualidades de vinho menos comuns.
+
+**Gostou da Análise?** Conecte-se para trocarmos experiências e ideias sobre projetos de dados!
+
+🔗 **Meu LinkedIn:** [https://www.linkedin.com/in/diego-kaique-9ba3697b]
+
+📧 **Contato:** [kaique_0208@hotmail.com]
