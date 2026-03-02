@@ -1,5 +1,3 @@
-# random_forest_avaliacoes_vinhos
-
 ## Projeto de base de Vinhos utilizando Random Forest
 
 ### Base de dados de avaliações de vinhos, onde o objetivo é prever a pontuação dos vinhos usando o algoritmo de Random Forest para classificação multiclasse.
